@@ -17,4 +17,4 @@ My code is indented GNU style while the foreign code is indented K&R style.
 
 ###Compiling
 
-I suggest using the c99 standard when compiling: `-std=c99.` for all the files.
+I suggest using the c99 standard when compiling: `-std=c99` for all the files.
