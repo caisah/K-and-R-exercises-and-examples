@@ -5,7 +5,7 @@ It includes both the code **examples** and the **answers** for all the exercises
 
 ###Organization
 
-Each *dir* contains only the code from the specific the chapter.
+Each *dir* contains only the code from the specific chapter.
 
 Each example is prefixed with `ex`.
 
