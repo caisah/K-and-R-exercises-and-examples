@@ -1,4 +1,4 @@
-K-and-R-exercises-and-examples
+K & R Exercises and Examples
 ==============================
 My takes of **K&amp;R The C Programming Language 2nd edition** book.
 It includes both the code **examples** and the **answers** for all the exercises.
