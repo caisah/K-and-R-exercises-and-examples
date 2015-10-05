@@ -31,7 +31,10 @@ int htoi(char s[])
     for (j = 0; j <= BASE; ++j)
       {
 	if (tolower(s[i]) == ch[j])
+	{
 	  num = num * 16 + j;
+	  break;
+	}
 	if (j == BASE)
 	  return num;
       }
