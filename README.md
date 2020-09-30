@@ -1,4 +1,4 @@
-K & R Exercises and Examples
+K & R Exercises and Examples:
 ==============================
 My takes of **K&amp;R The C Programming Language 2nd edition** book.
 It includes both the code **examples** and the **answers** for all the exercises.
@@ -9,7 +9,7 @@ Each *dir* contains only the code from the specific chapter.
 
 Each example is prefixed with `ex`.
 
-Each exercise is prefixed with the *exercise number* and `e`.
+Each exercise is prefixed with the *exercise number* and `ex`.
 
 Some of the answers are inspiered or copied from [clc-wiki](http://clc-wiki.net/wiki/K&R2_solutions).
 
