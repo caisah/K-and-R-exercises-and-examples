@@ -1,9 +1,9 @@
 /* The first C program - hello, world*/
 #include <stdio.h>
 
-int main(void)
+int main
 {
-  printf("hello, world \n");
+  printf("Hello world\n");
 
   return 0;
 }
