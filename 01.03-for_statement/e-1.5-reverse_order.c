@@ -1,4 +1,4 @@
-/* Print Fahrenheit-Celsius table; using for loop. */
+/* Print Fahrenheit-Celsius table (From 0 to 300 Fahrenheit) ; using for loop. */
 #include <stdio.h>
 
 int main(void)
