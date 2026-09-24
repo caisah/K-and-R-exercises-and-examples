@@ -7,12 +7,13 @@
 
 int main(void)
 {
-  int fahr;float cels;
-    
+  int fahr;
+  float cels;
+
   for(fahr = LOWER; fahr <= UPPER; fahr += STEP) {
-  cels=(5.0/9.0)*(fahr-32); 
-                                                 
-    printf("Farenheit: %3d Celsius: %6.1f\n", fahr,cels);
+    cels= (5.0 / 9.0) * (fahr-32);
+
+    printf("Farenheit: %3d Celsius: %6.1f\n", fahr, cels);
   }
   return 0;
 }
